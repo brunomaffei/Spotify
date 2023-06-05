@@ -1,6 +1,6 @@
 # Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
 
-![241812095-2722c7bd-2d8f-44a9-97b9-f2711a8d8b64-PhotoRoom](https://github.com/brunomaffei/spotify/assets/47982525/c93f4458-ff07-4573-aa18-b19abe4e40b6)
+![241812095-2722c7bd-2d8f-44a9-97b9-f2711a8d8b64-PhotoRoom](https://github.com/brunomaffei/spotify/assets/47982525/c4c51816-8376-44f8-a406-01cf12993801)
 
 
 Spotify Clone with Next.js 13 App Router: React,Typescript, Tailwind, Supabase, PostgreSQL,
