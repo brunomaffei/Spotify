@@ -1,0 +1,25 @@
+# Definir o charset UTF-8
+[*]
+charset = utf-8
+
+# Definir o estilo de fim de linha como LF (Unix-style)
+[*]
+end_of_line = lf
+
+# Definir o estilo de indentação como espaços com tamanho 2
+[*.{tsx,ts}]
+indent_style = space
+indent_size = 2
+
+# Definir o estilo de indentação como tabs com tamanho 2
+[*.html]
+indent_style = tab
+indent_size = 2
+
+# Remover espaços em branco no final das linhas
+[*]
+trim_trailing_whitespace = true
+
+# Forçar uma linha em branco no final do arquivo
+[*]
+insert_final_newline = true
